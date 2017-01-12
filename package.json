@@ -1,6 +1,6 @@
 {
   "name": "standard-own",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live by your own standards!",
   "main": "index.js",
   "bin": {
