@@ -42,10 +42,11 @@ yarn add standard standard-own --dev
   }
   ```
 
-2. Check style automatically when you run `npm run lint`
+2. Check style automatically with the following command
 
   ```bash
-  $ npm run lint
+  # use --slient to suppress the stupid npm warnings
+  $ npm run lint --slient
   ```
 
 ## Advanced Usage
